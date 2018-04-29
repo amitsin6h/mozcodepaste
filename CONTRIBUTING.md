@@ -1,4 +1,5 @@
-# Contributing to MOZ CODE PASTE
+[<img src="https://screenshotscdn.firefoxusercontent.com/images/d03b1f5a-b1da-4f11-b34d-b69861f9cd43.png">](https://mozcodepaste.herokuapp.com/)
+# Contributing
 >Thank you for your interest in contributing to mozcodepaste :tada:! 
 
 ## Contributor guidelines
