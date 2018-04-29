@@ -205,8 +205,8 @@ input:-webkit-autofill:focus {
 
 .button.white,
 .button:hover {
-    background-color: #ffffff;
-    color: #138fc2;
+    background-color: #FF397F;
+    color: #ffffff;
 }
 
 .button.white:hover {
