@@ -51,6 +51,7 @@
 
 > Join Mozcodepaste communication channel on slack
 
-https://join.slack.com/t/mozcodepaste/shared_invite/enQtMzU2MjIwMjQ4MTE4LWNhZDBiZmZkYzQ2NjM4OTkzM2VkYzkwZGU0MTgwMmU1NGMyZmQwZjFlNDIyNzZlNWUwNTE4MGQwZTUxNjVkYjM
+> [<img src="https://screenshotscdn.firefoxusercontent.com/images/d3e889f4-c765-45a8-a612-8b93b2b9c4d3.png" height="40">](https://join.slack.com/t/mozcodepaste/shared_invite/enQtMzU2MjIwMjQ4MTE4LWNhZDBiZmZkYzQ2NjM4OTkzM2VkYzkwZGU0MTgwMmU1NGMyZmQwZjFlNDIyNzZlNWUwNTE4MGQwZTUxNjVkYjM)
 
 
+----------------------------------------------------------------------------------------------------------------------------------
