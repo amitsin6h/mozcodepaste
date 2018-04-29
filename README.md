@@ -46,3 +46,8 @@ It is using Expressjs version 4.16.3
 2. Enter the new mozcodepaste directory with `cd mozcodepaste`.
 3. Make sure you have successfully installed **nodejs** and **npm**.
 4. Install all the modules from package.json using `npm install package.json`.
+5. After successfull installation of modules. Now run `nodemon` in console.
+6. After our server starts visit `http://localhost:8080/`.
+
+
+----------------------------------------------------------------------------------------------------------------------------------
