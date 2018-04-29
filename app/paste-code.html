@@ -24,6 +24,12 @@
     <link rel="stylesheet" href="static/css/style.css">
     <link rel="stylesheet" href="static/css/responsive.css">
     <script src="static/js/vendor/modernizr-2.8.3.min.js"></script>
+    <script src="/static/js/vendor/ace/ace.js" type="text/javascript" charset="utf-8"></script>
+    <script>
+        var editor = ace.edit("editor");
+        editor.setTheme("ace/theme/monokai");
+        editor.session.setMode("ace/mode/javascript");
+    </script>
 
     <!--[if lt IE 9]>
         <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -74,12 +80,7 @@
     <script src="static/js/wow.min.js"></script>
     <!--Main-active-JS-->
     <script src="static/js/main.js"></script>
-    <script src="/static/js/vendor/ace/ace.js" type="text/javascript" charset="utf-8"></script>
-    <script>
-        var editor = ace.edit("editor");
-        editor.setTheme("ace/theme/monokai");
-        editor.session.setMode("ace/mode/javascript");
-    </script>
+    
 </body>
 
 </html>
