@@ -1,6 +1,6 @@
+<img src="https://screenshotscdn.firefoxusercontent.com/images/d03b1f5a-b1da-4f11-b34d-b69861f9cd43.png">
 
-
-## It’s all about writing quality code
+#### It’s all about writing quality code
 
 > Moz Code Paste aims to help people to improve their code quality. The code pasted here gets reviewed by lot other people from the world and help one to understand code.
 
@@ -11,6 +11,7 @@
 ### Join community
 
 > Want to join our community, your are one click away. Click the below button to join mozcodepaste community in slack.
+> <img src="https://screenshotscdn.firefoxusercontent.com/images/d3e889f4-c765-45a8-a612-8b93b2b9c4d3.png" height="40">
 
 ### Contributing
 
@@ -38,7 +39,7 @@
 
 ### Run locally
 
-> 1.In the console, download a copy of the source with git clone https://github.com/amitsin6h/mozcodepaste.git.
-> 2.Enter the new mozcodepaste directory with cd mozcodepaste.
-> 3.Make sure you have successfully installed nodejs and npm.
-> 4.Install all the modules from package.json using npm install package.json.
+1. In the console, download a copy of the source with git clone https://github.com/amitsin6h/mozcodepaste.git.
+2. Enter the new mozcodepaste directory with cd mozcodepaste.
+3. Make sure you have successfully installed nodejs and npm.
+4. Install all the modules from package.json using npm install package.json.
