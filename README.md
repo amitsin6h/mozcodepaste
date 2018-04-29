@@ -15,7 +15,7 @@
 
 ### Contributing
 
-> We welcome contributions, and are especially interested in welcoming first time contributors. Read more about how to contribute below!
+> We welcome contributions, and are especially interested in welcoming **[first time contributors](#first-time)**. Read more about how to **[contribute](#developers)** below!
 
 ### Developers
 
@@ -32,12 +32,13 @@
 
 ### Installation
 
-### Requirements
+#### Requirements
 
-> Our Mozcodepaste is built in Nodejs version: v6.12.2
-> It is using Expressjs version 4.16.3
+Our Mozcodepaste is built in Nodejs version: v6.12.2
 
-### Run locally
+It is using Expressjs version 4.16.3
+
+#### Run locally
 
 1. In the console, download a copy of the source with git clone https://github.com/amitsin6h/mozcodepaste.git.
 2. Enter the new mozcodepaste directory with cd mozcodepaste.
