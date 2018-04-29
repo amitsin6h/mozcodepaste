@@ -332,22 +332,6 @@ input:-webkit-autofill:focus {
     text-align: center;
 }
 
-.mainmenu-area #primary-menu > ul > li > a:before {
-    content: "";
-    position: absolute;
-    left: 50%;
-    -webkit-transform: translateX(-50%);
-    transform: translateX(-50%);
-    top: -10px;
-    width: 0;
-    height: 0;
-    border-right: 10px solid transparent;
-    border-left: 10px solid transparent;
-    border-top: 10px solid #ffffff;
-    opacity: 0;
-    -webkit-transition: 0.3s;
-    transition: 0.3s;
-}
 
 .mainmenu-area #primary-menu > ul > li > a:hover:before,
 .mainmenu-area #primary-menu > ul > li.active > a:before {
@@ -355,10 +339,7 @@ input:-webkit-autofill:focus {
     top: 0;
 }
 
-.mainmenu-area #primary-menu ul li.active a,
-.mainmenu-area #primary-menu ul li a:hover {
-    border-top: 3px solid #ffffff;
-}
+
 
 .mainmenu-area.affix {
     background-color: #9994C7;
